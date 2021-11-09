@@ -34,6 +34,14 @@ Hypixel Bypasses: 0/10\
 Other Bypasses: 0/10\
 Update Time: Discontinued\
 Visuals: 9/10\
+### LiquidBounce
+Site: liquidbounce.net\
+Private: No\
+Servers: AAC4/AAC3/Matrix/NCP servers\
+Hypixel Bypasses 0/10\
+Other Bypasses: 7/10\
+Update Time: Discontinued\
+Visuals: 1/10\
 # Ghost
 ## Paid
 ## Free

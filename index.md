@@ -6,6 +6,15 @@ NOTE: The list is not done and I will keep updating it.
 
 # Blatant
 ## Paid
+### Lime
+Site: \
+Price: \
+Private: No\
+Servers: Verus servers\
+Hypixel Bypasses: 1/10\
+Other Bypasses: 9/10\
+Update Time: 7/10\
+Visuals: 6/10\
 ### Novoline (.wtf)
 Site: novoline.wtf\
 Price: $25\
@@ -24,6 +33,15 @@ Hypixel Bypasses: 5/10\
 Other Bypasses: 7/10\
 Update time: 10/10\
 Visuals: 6/10\
+### Astolfo
+Website: astolfo.lgbt\
+Price: $40\
+Private: Yes (application/invite)\
+Servers: Multiserver\
+Hypixel Bypasses: 2/10\
+Other Bypasses: 5/10\
+Update Time: 1/10\
+Visuals: 7/10\
 ## Free
 ### Sigma
 Site: sigmaclient.info\

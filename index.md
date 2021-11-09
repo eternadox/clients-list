@@ -1,7 +1,8 @@
 ## sigmaclientwastaken's client list
 There have recently been lots of client lists on the [MinecraftClients Subreddit](https://reddit.com/r/minecraftclients), \
 so I decided to make my own. \
-If you find any issues, open an [issue on the GitHub page](https://github.com/sigmaclientwastaken/clients-list/issues)! 
+If you find any issues, open an [issue on the GitHub page](https://github.com/sigmaclientwastaken/clients-list/issues)! \
+NOTE: The list is not done and I will keep updating it.
 
 # Blatant
 ## Paid

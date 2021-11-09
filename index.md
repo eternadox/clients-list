@@ -62,6 +62,15 @@ Update Time: Discontinued\
 Visuals: 1/10\
 # Ghost
 ## Paid
+### Vape V4
+Site: vape.gg\
+Price: 35$
+Private: No\
+Servers: All\
+Hypixel Bypasses: 9/10\
+Other Bypasses: 7/10\
+Update Time: 6/10\
+Visuals: 9/10\
 ## Free
 ### Raven B+
 Site: ravenclient.cf\

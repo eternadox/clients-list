@@ -7,8 +7,8 @@ NOTE: The list is not done and I will keep updating it.
 # Blatant
 ## Paid
 ### Lime
-Site: \
-Price: \
+Site: [Discord Server](https://discord.gg/F2HDU9d7)\
+Price: 12$\
 Private: No\
 Servers: Verus servers\
 Hypixel Bypasses: 1/10\

@@ -48,11 +48,10 @@ Site: sigmaclient.info\
 Price: Free, 20$ premium\
 Private: No\
 Servers: None\
-Hypixel Bypasses: 10/10\
-Other Bypasses: 10/10\
+Hypixel Bypasses: 1/10\
+Other Bypasses: 3/10\
 Update Time: Discontinued\
 Visuals: 9/10\
-Omikron: Allah
 ### LiquidBounce
 Site: liquidbounce.net\
 Private: No\

@@ -7,14 +7,7 @@ NOTE: The list is not done and I will keep updating it.
 # Blatant
 ## Paid
 ### Lime
-Site: [Discord Server](https://discord.gg/F2HDU9d7)\
-Price: 12$\
-Private: No\
-Servers: Verus servers\
-Hypixel Bypasses: 1/10\
-Other Bypasses: 9/10\
-Update Time: 7/10\
-Visuals: 6/10\
+
 ### Novoline (.wtf)
 Site: novoline.wtf\
 Price: $25\
@@ -43,6 +36,15 @@ Other Bypasses: 5/10\
 Update Time: 1/10\
 Visuals: 7/10\
 ## Free
+### Lime
+Site: [Discord Server](https://discord.gg/F2HDU9d7)\
+Price: Free Now\
+Private: No\
+Servers: Verus servers\
+Hypixel Bypasses: 1/10\
+Other Bypasses: 9/10\
+Update Time: 3/10\
+Visuals: 6/10\
 ### Sigma
 Site: sigmaclient.info\
 Price: Free, 20$ premium\
@@ -83,3 +85,11 @@ Update Time: 5/10\
 # Anarchy
 ## Paid
 ## Free
+### Meteor
+Site: meteorclient.com\
+Price: Free\
+Private: No\
+Servers: Anarchy Servers\
+Hypixel Bypasses: 0/10\
+Other Bypasses: 3/10\
+Update Time: 6/10\

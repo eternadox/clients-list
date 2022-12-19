@@ -149,7 +149,7 @@ Private: No\
 Servers: Hypixel, works for other servers\
 Hypixel Bypasses: 6/10\
 Other Bypasses: 6/10\
-Update Time: 6/10
+Update Time: Discontinued
 # Anarchy
 ## Paid
 ### Future
